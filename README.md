@@ -1,4 +1,4 @@
-# firechat-vue
+# Chat Application using vue
 
 ## Project setup
 ```
